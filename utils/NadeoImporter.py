@@ -1,4 +1,3 @@
-import cgi
 import html
 import re
 import time
