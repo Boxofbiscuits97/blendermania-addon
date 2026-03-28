@@ -9,6 +9,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased] - yyyy-mm-dd
 
+## [4.4.2] - 2026-03-28
+
+### Fixed
+
+- Support for Blender 5.1
+
 ## [4.4.1] - 2025-12-11
 
 ### Added
